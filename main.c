@@ -25,7 +25,7 @@ int main() {
     }
 
     printf("Soucet: %d\n", soucet);
-    printf("Nejvetsi cislo: %d\n", max);
+    printf("Maximum: %d\n", max);
 
     if (soucet % 2 == 0) {
         printf("Soucet je sudy\n");
